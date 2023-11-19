@@ -1,0 +1,14 @@
+{
+  "name": "caddy-good-domains",
+  "version": "1.0.0",
+  "description": "Caddy on demand TLS ASK domain validation",
+  "main": "index.js",
+  "author": "Nicolas Schteinschraber",
+  "license": "MIT",
+  "dependencies": {
+    "@polka/send-type": "^0.5.2",
+    "dotenv": "^16.3.1",
+    "fs-extra": "^11.1.1",
+    "polka": "^0.5.2"
+  }
+}
